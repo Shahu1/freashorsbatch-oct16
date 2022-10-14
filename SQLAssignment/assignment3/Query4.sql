@@ -1,0 +1,1 @@
+select * from OrderItem where ProductId = 6; 

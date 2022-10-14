@@ -1,0 +1,1 @@
+Select * from Product where (UnitPrice>10 AND UnitPrice<20);

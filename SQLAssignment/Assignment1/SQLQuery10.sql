@@ -1,0 +1,1 @@
+Insert into Customer(id,FirstName,LastName,City,Country,Phone) Values(2,'mary','wilson','London','England','+233334455');

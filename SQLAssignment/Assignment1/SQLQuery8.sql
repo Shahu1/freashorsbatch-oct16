@@ -1,0 +1,2 @@
+ALTER TABLE Orders
+ADD FOREIGN KEY (CustomerId) REFERENCES Customer(id);

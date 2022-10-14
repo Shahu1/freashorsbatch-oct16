@@ -1,0 +1,3 @@
+SELECT MIN(DOJ) AS "First JOIN"
+FROM Employee
+

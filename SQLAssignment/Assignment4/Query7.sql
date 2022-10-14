@@ -1,0 +1,2 @@
+select productName,Package
+from Product
